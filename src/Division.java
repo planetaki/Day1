@@ -1,4 +1,4 @@
-
+package src;
 
 /**Write a program that requests two positive numbers from the user and then outputs the quotient and
  the remainder, e.g., if the user enters 7 and 3, your program should output something like “7 divided

@@ -1,5 +1,5 @@
-/**
- * Multiplication
+package src; /**
+ * src.Multiplication
  * Write a program that requests two numbers from the user and then outputs their product. You cannot use the “*” operator.
  * Can you make your program work correctly also if one or both numbers are negative?
  */

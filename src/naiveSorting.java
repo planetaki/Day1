@@ -1,4 +1,4 @@
-/** Write a program that reads three numbers and prints them in order, from lowest to highest.*/
+package src; /** Write a program that reads three numbers and prints them in order, from lowest to highest.*/
 
 import java.util.Scanner;
 
