@@ -2,7 +2,7 @@ package src; /** Write a program that reads three numbers and prints them in ord
 
 import java.util.Scanner;
 
-public class naiveSorting {
+public class NaiveSorting {
     public static void main(String[] args) {
         int lowest = 0;
         int middle = 0;
